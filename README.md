@@ -13,7 +13,7 @@ Move the paddle using the mouse. Help the ball break all the bricks before you r
 
 Built using Unity 2022.3.45f
 
-Music made in FL Studio & Musescore
+Music made in FL Studio & Musescore Studio 4
 
 Sound effects created in ChipTone
 
